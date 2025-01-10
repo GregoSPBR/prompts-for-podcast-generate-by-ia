@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/craiyon_214720_workstation_at_the_beach_under_palms.png"
+    src="./assets/craiyon_214720_workstation_at_the_beach_under_palms(1).png"
     width="300"
 />
 </p>
@@ -20,11 +20,11 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Criyon](https://www.craiyon.com/)
+- [Criayon](https://www.craiyon.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Criyon Para gerar capas
+- Criayon Para gerar capas
